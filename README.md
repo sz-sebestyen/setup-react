@@ -17,4 +17,4 @@ npm install html-webpack-plugin --save-dev
 
 npm install webpack-dev-server --save-dev
 
-"webpack-dev-server --mode development --open --hot --port 3000"
+"webpack serve --mode development --open --hot --port 3000"
