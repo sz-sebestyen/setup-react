@@ -18,3 +18,5 @@ npm install html-webpack-plugin --save-dev
 npm install webpack-dev-server --save-dev
 
 "webpack serve --mode development --open --hot --port 3000"
+
+npm install --save-dev webpack-merge
